@@ -12,7 +12,7 @@ In addition, the integration of the Google Gemini API enables an AI Study Assist
 # Email Validation 
 <img width="787" height="896" alt="Validation" src="https://github.com/user-attachments/assets/b790943c-81a8-4c2b-b2f5-053ac5746547" />
 
-# Password or Email Mismatch
+# Password or Email Unmatch
 <img width="702" height="902" alt="Login unmatch" src="https://github.com/user-attachments/assets/0c053539-fb73-4019-bc8b-cb0f41e89ed2" />
 
 # Admin
